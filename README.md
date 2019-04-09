@@ -1,2 +1,4 @@
 # asrock-deskmini110-mojave
-hackintosh
+
+Bios Version: P8.00(rev)
+
